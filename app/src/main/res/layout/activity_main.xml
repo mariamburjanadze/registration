@@ -44,7 +44,7 @@
             android:layout_height="38dp"
             android:textColor="#204521"
             android:text="რეგისტრაცია"
-            android:backgroundTint="#B17C26"/>
+            android:backgroundTint="#C18539"/>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
 
